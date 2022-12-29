@@ -1,6 +1,7 @@
 Hi, I'm Max ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a DevOps specialist and Entrepreneur 
 --------------------  
-I work full time as a DevOps specialist with a passion for the Cloud. I'm also currently working on a startup of my own aiming to provide web marketing solutions for small enterprise such as e-commerce, conversion website, etc.  
+I work full time as a DevOps specialist with a passion for the Cloud. I'm also currently working on a startup of my own aiming to provide web marketing solutions (such as conversion website, e-commerce, etc) for small businesses.
+
 * 🌍  I'm based in Montreal 
 * ✉️  You can contact me at [info@starstruckcreative.com](mailto:info@starstruckcreative.com) 
 * 🚀  I'm currently working on [Starstruck Creative - Website](http://starstruckcreative.com) 
@@ -17,10 +18,3 @@ I work full time as a DevOps specialist with a passion for the Cloud. I'm also c
  
  <p align="left"> <a href="https://discord.com/users/Maxx#3547" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mmasson-01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxime-masson-8b7696158/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20883970/ron-qc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/r0n_qc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mmasson-01"><img src="https://github-readme-stats.vercel.app/api?username=Mmasson-01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mmasson-01's GitHub stats" /></a>
-<a href="http://www.github.com/Mmasson-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmasson-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Mmasson-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmasson-01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
